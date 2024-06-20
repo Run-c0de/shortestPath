@@ -16,3 +16,6 @@ The function should return the shortest path from the first node to the last nod
 #### Function Signature
 ```javascript
 function ShortestPath(strArr: string[]): string | number
+
+
+keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android
